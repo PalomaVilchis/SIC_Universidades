@@ -32,6 +32,9 @@ hola soy salomón
 Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
 
 
+
+soy jose luis oviedo
+
 Hola soy Antonio
 
 
@@ -39,6 +42,7 @@ Soy José Román Quiero participar
 
 
 Hola soy Marving de la UV campus Ixtac
+
 
 
 
