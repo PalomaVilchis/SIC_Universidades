@@ -8,8 +8,11 @@ Hola mundo
 Hacer pruebas de código y para compartir proyectos
 
 
+Solicito quell requests Ivan Fabian Luna
+
+
 quiero contribuir!!!
-=======
+
 Hola Soy Jesús 
 
 hola soy salomón 
