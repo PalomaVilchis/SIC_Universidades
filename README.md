@@ -27,12 +27,9 @@ hola soy salomón
 
 Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
 
-
-=======
 Hola soy Alain Manzo y quiero contribuir
 
 soy jose luis oviedo
-
 
 Hola soy Antonio
 
@@ -43,10 +40,7 @@ Soy José Román Quiero participar
 Hola soy Marving de la UV campus Ixtac
 
 
-Saludos, Toño Landa :)
-=======
-=======
--------------------------------------------------
+
 Quiero contribuir
 
 Jose Manuel Cartas Sanchez
@@ -64,7 +58,6 @@ UV campus veracruz
 
 Hola Soy José Alfonso , quiero contribuir!!
 
-
 ---------------------------------------------
 
 
@@ -72,5 +65,5 @@ Soy Jose Manuel  Cartas Sanchez
 Quiero ser contribuidor 
 UV campus Veracruz
 
-
+Hola Soy Miguel Sadhit UV 
 
