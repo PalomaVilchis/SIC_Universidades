@@ -8,8 +8,6 @@ Hola mundo
 Hacer pruebas de código y para compartir proyectos
 
 
-ISR: Solicito Pull request
-
 Pedro Salazar Solicito Pull Request
 
 
@@ -34,12 +32,23 @@ soy jose luis oviedo
 Hola soy Antonio
 
 
+
+
 Soy José Román Quiero participar
 
 
 Hola soy Marving de la UV campus Ixtac
 
 
+
+
+=======
+hola soy Miguel Sadhit UV Orizaba
+=======
+Saludos, Toño Landa :)
+=======
+=======
+-------------------------------------------------
 
 Quiero contribuir
 
