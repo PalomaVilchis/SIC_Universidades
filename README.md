@@ -8,6 +8,11 @@ Hola mundo
 Hacer pruebas de código y para compartir proyectos
 
 
+ISR: Solicito Pull request
+
+Pedro Salazar Solicito Pull Request
+
+
 Solicito Pull Request RCS
 =======
 
@@ -22,13 +27,13 @@ hola soy salomón
 
 Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
 
+Hola soy Alain Manzo y quiero contribuir
+
+soy jose luis oviedo
 
 Hola soy Antonio
 
 
-
-
-Soy José Román Quiero participar
 
 
 Hola soy Marving de la UV campus Ixtac
@@ -37,8 +42,13 @@ Quiero contribuir
 
 Jose Manuel Cartas Sanchez
 
+
+Soy Toño Landa, saludos :)
+
+
 UV campus veracruz 
-------------------------------------------------
 
 
+
+Hola Soy José Alfonso , quiero contribuir!!
 
