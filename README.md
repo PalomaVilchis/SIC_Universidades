@@ -10,5 +10,5 @@ hola soy salomón
 
 Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
 
-Hola Soy Gabriel Barron
+Hola Soy Gabriel Barron Quiero Colaborar
 
