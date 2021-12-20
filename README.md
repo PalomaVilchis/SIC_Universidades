@@ -44,11 +44,7 @@ Soy José Román Quiero participar
 Hola soy Marving de la UV campus Ixtac
 
 
-
-
-
-Hola Soy José Alfonso , quiero contribuir!!
-
+Hola Soy Gus Leyva creo que ya pude!!!!
 
 
 
