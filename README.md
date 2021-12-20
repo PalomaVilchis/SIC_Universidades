@@ -8,6 +8,9 @@ Hola mundo
 Hacer pruebas de código y para compartir proyectos
 
 
+Solicito Pull Request RCS
+=======
+
 Solicito quell requests Ivan Fabian Luna
 
 
@@ -18,6 +21,7 @@ Hola Soy Jesús
 hola soy salomón 
 
 Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
+
 
 
 
