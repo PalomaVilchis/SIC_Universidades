@@ -3,12 +3,8 @@
 Repositorio de prueba para el grupo 6 del curso de IoT
 
 Hacer pruebas de codigo, y de compartir proyectos
-
-
-OK
-
 Hola mundo
-
+=======
 Hacer pruebas de código y para compartir proyectos
 
 
@@ -18,7 +14,7 @@ Pedro Salazar Solicito Pull Request
 
 
 Solicito Pull Request RCS
-
+=======
 
 Solicito quell requests Ivan Fabian Luna
 
@@ -40,8 +36,17 @@ Hola soy Antonio
 
 
 
+Hola soy Marving de la UV campus Ixtac
+-------------------------------------------------
+Quiero contribuir
+
+Jose Manuel Cartas Sanchez
+
 
 Soy Toño Landa, saludos :)
+
+
+UV campus veracruz 
 
 
 
