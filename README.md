@@ -38,12 +38,22 @@ soy jose luis oviedo
 Hola soy Antonio
 
 
+Soy José Román Quiero participar
 
 
+Hola soy Marving de la UV campus Ixtac
 
-Soy Toño Landa, saludos :)
+
 
 
 
 Hola Soy José Alfonso , quiero contribuir!!
+
+---------------------------------------------
+
+Soy Jose Manuel  Cartas Sanchez
+Quiero ser contribuidor 
+UV campus Veracruz
+
+
 
