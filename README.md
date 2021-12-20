@@ -12,6 +12,9 @@ Hola mundo
 Hacer pruebas de código y para compartir proyectos
 
 
+Pedro Salazar Solicito Pull Request
+
+
 Solicito Pull Request RCS
 
 
@@ -36,6 +39,7 @@ Soy José Román Quiero participar
 
 
 Hola soy Marving de la UV campus Ixtac
+
 
 
 
