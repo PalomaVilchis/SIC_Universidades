@@ -12,6 +12,8 @@ Hola mundo
 Hacer pruebas de código y para compartir proyectos
 
 
+ISR: Solicito Pull request
+
 Pedro Salazar Solicito Pull Request
 
 
@@ -31,8 +33,6 @@ Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
 
 
 Hola soy Antonio
-
-
 
 
 Soy José Román Quiero participar
