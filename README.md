@@ -8,8 +8,6 @@ Hola mundo
 Hacer pruebas de código y para compartir proyectos
 
 
-
-
 Solicito Pull Request RCS
 
 
@@ -24,7 +22,11 @@ hola soy salomón
 
 Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
 
+
+Soy José Román Quiero participar
+
+
 Hola soy Marving de la UV campus Ixtac
 
-Hola soy Carlos Díaz
+
 
