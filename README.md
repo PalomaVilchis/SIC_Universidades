@@ -2,6 +2,9 @@
 
 Repositorio de prueba para el grupo 6 del curso de IoT
 
+Hacer pruebas de codigo, y de compartir proyectos
+Hola mundo
+=======
 Hacer pruebas de código y para compartir proyectos
 
 
