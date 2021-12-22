@@ -25,6 +25,9 @@ hola soy salomón
 
 Buenas tardes Soy Alfonso Monterrosas y quiero ser contribuidor
 
+
+Hola Soy Gabriel Barron Quiero Colaborar
+=======
 Hola soy Alain Manzo y quiero contribuir
 
 soy jose luis oviedo
@@ -75,6 +78,7 @@ Quiero ser contribuidor
 UV campus Veracruz
 
 Hola Soy Miguel Sadhit UV 
+
 
 Hola soy Erika Barojas
 Hola Soy Jesus Fausto Cordova Escobedo
