@@ -85,5 +85,5 @@ Hola Soy Jesus Fausto Cordova Escobedo
 
 Yo habia escrito algo pero no aparece soy David Garcia
 
-Nuevamente con mis dudas perdon.
 
+YO quiero tambien participar
