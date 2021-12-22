@@ -1,0 +1,31 @@
+// hello.cpp
+// author: Alberto Pacheco (apacheco@uach.mx)
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main( int argc, char *argv[], char *envp[] )
+{
+    bool numberLines = false;    // Default is no line numbers.
+
+    vector<string> args(argv, argv+argc);
+    // vector<string> env(envp, argv+argc);
+
+    cout << "Hola ";
+
+    if ( argc > 1 ) {
+         for ( auto &p : args ) {
+             cout << p << " ";
+         }
+    } else {
+        cout << "mundo!" << endl;
+    }
+
+    for ( int i = 0; envp[i] != nullptr; ++i ) {
+        cout << i << ": " << envp[i] << endl;
+    }
+
+    return 0;
+}
