@@ -87,3 +87,8 @@ Yo habia escrito algo pero no aparece soy David Garcia
 
 
 YO quiero tambien participar
+
+*********************
+Solicito Pull Request
+David García Pacheco
+*********************
