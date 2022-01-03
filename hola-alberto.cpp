@@ -1,4 +1,4 @@
-// hello.cpp
+// hola-alberto.cpp
 // author: Alberto Pacheco (apacheco@uach.mx)
 
 #include <iostream>
